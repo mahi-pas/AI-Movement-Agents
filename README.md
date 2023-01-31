@@ -14,6 +14,7 @@
 
 ### Features:
 - Dynamic Obstacle Avoidance Mode (Avoidance Mode chosen based on situation, saves computation and gives better results)
+- Dynamic (Acceleration based) Agent Movement
 - Player Movement
 - Agents can pursue any Transform
 
