@@ -1,6 +1,9 @@
 # AI Movement Agents
  Open Source AI Agents in Unity using C#
  
+## Status
+Still in developement. Features exist but are not compartmentalized like a true library. More features and structural improvement are on the way. 
+
  ### Movement Modes:
  - Predictive Pursue (Predicts location of target in the future by taking its current velocity)
  - Evade
